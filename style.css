@@ -231,6 +231,11 @@ body {
 .article img {
 	width: 100%;
 }
+.about-me img,
+.article2 img {
+	width: 100%;
+	margin-left: 150px;
+}
 .about-me div,
 .article div {
 	padding: 0;
