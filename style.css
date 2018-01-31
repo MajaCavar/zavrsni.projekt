@@ -234,6 +234,7 @@ body {
 .about-me div,
 .article div {
 	padding: 0;
+	margin: 0 auto;
 }
 .about-me-text,
 .article-text {
